@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|c:\\users\\tka4e\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tetris\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,16 +31,16 @@
       "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|c:\\users\\tka4e\\onedrive\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\tetris\\tetris\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048C8391-B71E-45BB-9499-38743F5384ED}|Tetris\\Tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,13 +54,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MapController.cs",
               "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\MapController.cs",
               "RelativeDocumentMoniker": "Tetris\\MapController.cs",
               "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\MapController.cs",
               "RelativeToolTip": "Tetris\\MapController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAFcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T18:13:03.552Z",
               "IsPinned": true,
@@ -73,27 +73,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.cs",
-              "RelativeDocumentMoniker": "Tetris\\Form2.cs",
-              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.cs",
-              "RelativeToolTip": "Tetris\\Form2.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCgAAAA+AAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form1.cs",
+              "RelativeDocumentMoniker": "Tetris\\Form1.cs",
+              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form1.cs",
+              "RelativeToolTip": "Tetris\\Form1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwK4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:33:52.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Shape.cs",
-              "RelativeDocumentMoniker": "Tetris\\Shape.cs",
-              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Shape.cs",
-              "RelativeToolTip": "Tetris\\Shape.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:13:09.685Z",
+              "WhenOpened": "2025-05-11T19:02:43.417Z",
               "EditorCaption": ""
             },
             {
@@ -111,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Program.cs",
               "RelativeDocumentMoniker": "Tetris\\Program.cs",
               "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Program.cs",
               "RelativeToolTip": "Tetris\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:13:05.465Z"
+              "WhenOpened": "2025-05-11T18:13:05.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,27 +129,14 @@
               "RelativeDocumentMoniker": "Tetris\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form1.Designer.cs",
               "RelativeToolTip": "Tetris\\Form1.Designer.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAMwHIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T10:22:07.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form1.cs",
-              "RelativeDocumentMoniker": "Tetris\\Form1.cs",
-              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form1.cs",
-              "RelativeToolTip": "Tetris\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:02:43.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.cs",
               "RelativeDocumentMoniker": "Tetris\\Form2.cs",
@@ -173,7 +148,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.cs",
+              "RelativeDocumentMoniker": "Tetris\\Form2.cs",
+              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.cs",
+              "RelativeToolTip": "Tetris\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:33:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Shape.cs",
+              "RelativeDocumentMoniker": "Tetris\\Shape.cs",
+              "ToolTip": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Shape.cs",
+              "RelativeToolTip": "Tetris\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:13:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tka4e\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Tetris\\Tetris\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Tetris\\Form2.Designer.cs",

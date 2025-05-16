@@ -32,13 +32,10 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.менюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.паузаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.начатьЗановоToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.справкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
-            this.menuStrip1.SuspendLayout();
+            this.btn_pouse = new System.Windows.Forms.Button();
+            this.btn_restart = new System.Windows.Forms.Button();
+            this.btn_dovidka = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -61,56 +58,48 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "label2";
             // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.менюToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(409, 24);
-            this.menuStrip1.TabIndex = 2;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // менюToolStripMenuItem
-            // 
-            this.менюToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.паузаToolStripMenuItem,
-            this.начатьЗановоToolStripMenuItem,
-            this.справкаToolStripMenuItem});
-            this.менюToolStripMenuItem.Name = "менюToolStripMenuItem";
-            this.менюToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
-            this.менюToolStripMenuItem.Text = "Меню";
-            // 
-            // паузаToolStripMenuItem
-            // 
-            this.паузаToolStripMenuItem.Name = "паузаToolStripMenuItem";
-            this.паузаToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
-            this.паузаToolStripMenuItem.Text = "Пауза";
-            this.паузаToolStripMenuItem.Click += new System.EventHandler(this.OnPauseButtonClick);
-            // 
-            // начатьЗановоToolStripMenuItem
-            // 
-            this.начатьЗановоToolStripMenuItem.Name = "начатьЗановоToolStripMenuItem";
-            this.начатьЗановоToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
-            this.начатьЗановоToolStripMenuItem.Text = "Начать заново";
-            this.начатьЗановоToolStripMenuItem.Click += new System.EventHandler(this.OnAgainButtonClick);
-            // 
-            // справкаToolStripMenuItem
-            // 
-            this.справкаToolStripMenuItem.Name = "справкаToolStripMenuItem";
-            this.справкаToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
-            this.справкаToolStripMenuItem.Text = "Справка";
-            this.справкаToolStripMenuItem.Click += new System.EventHandler(this.OnInfoPressed);
-            // 
             // button1
             // 
             this.button1.Image = global::Tetris.Properties.Resources.меню1;
-            this.button1.Location = new System.Drawing.Point(12, 36);
+            this.button1.Location = new System.Drawing.Point(255, 208);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(49, 43);
             this.button1.TabIndex = 3;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btn_pouse
+            // 
+            this.btn_pouse.Location = new System.Drawing.Point(310, 189);
+            this.btn_pouse.Name = "btn_pouse";
+            this.btn_pouse.Size = new System.Drawing.Size(75, 23);
+            this.btn_pouse.TabIndex = 4;
+            this.btn_pouse.Text = "Пауза";
+            this.btn_pouse.UseVisualStyleBackColor = true;
+            this.btn_pouse.Visible = false;
+            this.btn_pouse.Click += new System.EventHandler(this.btn_pouse_Click);
+            // 
+            // btn_restart
+            // 
+            this.btn_restart.Location = new System.Drawing.Point(310, 218);
+            this.btn_restart.Name = "btn_restart";
+            this.btn_restart.Size = new System.Drawing.Size(91, 23);
+            this.btn_restart.TabIndex = 5;
+            this.btn_restart.Text = "Почати заново";
+            this.btn_restart.UseVisualStyleBackColor = true;
+            this.btn_restart.Visible = false;
+            this.btn_restart.Click += new System.EventHandler(this.btn_restart_Click);
+            // 
+            // btn_dovidka
+            // 
+            this.btn_dovidka.Location = new System.Drawing.Point(310, 247);
+            this.btn_dovidka.Name = "btn_dovidka";
+            this.btn_dovidka.Size = new System.Drawing.Size(75, 23);
+            this.btn_dovidka.TabIndex = 6;
+            this.btn_dovidka.Text = "Довідка";
+            this.btn_dovidka.UseVisualStyleBackColor = true;
+            this.btn_dovidka.Visible = false;
+            this.btn_dovidka.Click += new System.EventHandler(this.btn_dovidka_Click);
             // 
             // Form1
             // 
@@ -118,18 +107,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(409, 484);
+            this.ClientSize = new System.Drawing.Size(408, 473);
+            this.Controls.Add(this.btn_dovidka);
+            this.Controls.Add(this.btn_restart);
+            this.Controls.Add(this.btn_pouse);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.menuStrip1);
             this.DoubleBuffered = true;
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Tetris";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.OnPaint);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -140,11 +128,9 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem менюToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem паузаToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem начатьЗановоToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem справкаToolStripMenuItem;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_pouse;
+        private System.Windows.Forms.Button btn_restart;
+        private System.Windows.Forms.Button btn_dovidka;
     }
 }

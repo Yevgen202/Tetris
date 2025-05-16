@@ -27,10 +27,10 @@ namespace Tetris
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            button2.Visible = true;
-            button3.Visible = true;
-            button4.Visible = true;
+            button2.Visible = !button2.Visible;
+            button3.Visible = !button3.Visible;
+            button4.Visible = !button4.Visible;
+
         }
 
         private void button5_Click(object sender, EventArgs e)

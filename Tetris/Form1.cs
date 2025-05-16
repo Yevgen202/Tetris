@@ -60,7 +60,7 @@ namespace Tetris
         {
             switch (e.KeyCode)
             {
-                case Keys.A:
+                case Keys.Up:
 
                     if (!MapController.IsIntersects())
                     {
@@ -70,7 +70,7 @@ namespace Tetris
                         Invalidate();
                     }
                     break;
-                case Keys.Space:
+                case Keys.Down:
                     timer1.Interval = 10;
                     break;
                 case Keys.Right:
@@ -128,22 +128,34 @@ namespace Tetris
             MapController.ShowNextShape(e.Graphics);
         }
 
-        private void OnPauseButtonClick(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            var pressedButton = sender as ToolStripMenuItem;
-            if (timer1.Enabled)
-            {
-                pressedButton.Text = "Продовжить";
-                timer1.Stop();
-            }
-            else
-            {
-                pressedButton.Text = "Пауза";
-                timer1.Start();
-            }
+            btn_pouse.Visible = !btn_pouse.Visible;
+            btn_restart.Visible = !btn_restart.Visible;
+            btn_dovidka.Visible = !btn_dovidka.Visible;
         }
 
-        private void OnAgainButtonClick(object sender, EventArgs e)
+        private void btn_pouse_Click(object sender, EventArgs e)
+{
+    if (timer1.Enabled)
+    {
+        if (sender is ToolStripMenuItem menuItem)
+            menuItem.Text = "Продовжить";
+        else if (sender is Button btn)
+            btn.Text = "Продовжить";
+        timer1.Stop();
+    }
+    else
+    {
+        if (sender is ToolStripMenuItem menuItem)
+            menuItem.Text = "Пауза";
+        else if (sender is Button btn)
+            btn.Text = "Пауза";
+        timer1.Start();
+    }
+}
+
+        private void btn_restart_Click(object sender, EventArgs e)
         {
             timer1.Tick -= update;
             timer1.Stop();
@@ -151,21 +163,13 @@ namespace Tetris
             Init();
         }
 
-
-        private void OnInfoPressed(object sender, EventArgs e)
+        private void btn_dovidka_Click(object sender, EventArgs e)
         {
             string infoString = "";
             infoString = "Для керування фігурами використовуйте стрілочку вліво/вправо.\n";
-            infoString += "Щоб прискорить падіння фігури - натисніть 'Пробіл'.\n";
-            infoString += "Для поворота фігури використовуйте 'A'.\n";
-            MessageBox.Show(infoString, "Справка");
-        }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            // Ваш код дії при натисканні кнопки
-            MessageBox.Show("Для керування фігурами використовуйте стрілочку вліво/вправо.\n" +
-                            "Щоб прискорити падіння фігури — натисніть 'Пробіл'.\n" +
-                            "Для повороту фігури використовуйте 'A'.", "Справка");
+            infoString += "Щоб прискорить падіння фігури - натисніть стрілочку вниз.\n";
+            infoString += "Для поворота фігури використовуйте стрілочку вгору.\n";
+            MessageBox.Show(infoString, "Довідка");
         }
     }
 }

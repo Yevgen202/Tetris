@@ -86,7 +86,6 @@ namespace Tetris.Controllers
                 }
             }
         }
-ваіваіав
         public static void DrawGrid(Graphics g)
         {
             for (int i = 0; i <= 16; i++)
