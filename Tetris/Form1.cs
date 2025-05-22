@@ -31,7 +31,7 @@ namespace Tetris
                 playerName = "Новий гравець";
             }
             this.KeyUp += new KeyEventHandler(keyFunc);
-            this.Focus(); // Додаємо фокус
+            this.Focus(); 
             Init();
         }
 
